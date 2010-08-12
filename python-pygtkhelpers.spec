@@ -1,12 +1,12 @@
 %define 	module	pygtkhelpers
 Summary:	Library to assist the building of PyGTK applications
 Name:		python-%{module}
-Version:	0.4.1
+Version:	0.4.2
 Release:	1
 License:	Other
 Group:		Development/Languages/Python
 Source0:	http://pypi.python.org/packages/source/p/pygtkhelpers/%{module}-%{version}.tar.gz
-# Source0-md5:	7ad3ab335ac6d467cf8dedbc28ed1fd6
+# Source0-md5:	f6d7cbc2aefb570633dc6f702e2e724f
 URL:		http://pypi.python.org/pypi/pygtkhelpers/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
