@@ -10,7 +10,7 @@ Source0:	http://pypi.python.org/packages/source/p/pygtkhelpers/%{module}-%{versi
 URL:		http://pypi.python.org/pypi/pygtkhelpers/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
